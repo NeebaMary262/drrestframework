@@ -1,6 +1,6 @@
 #  Django REST Framework: Mixins & Generics CRUD API
 
-A foundational backend service demonstrating clean, DRY (Don't Repeat Yourself) API architecture using Django REST Framework's advanced class-based views.
+A foundational backend service demonstrating clean,  API architecture using Django REST Framework's advanced class-based views.
 
 This project implements full CRUD (Create, Read, Update, Delete) functionality by leveraging DRF's built-in Mixins and Generic API Views, significantly reducing boilerplate code while maintaining scalability.
 
