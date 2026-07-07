@@ -1,0 +1,29 @@
+# Python core
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django specific
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Virtual Environments
+restdjango/
+venv/
+env/
+
+# Security and Secrets
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# Windows & OneDrive OS files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
